@@ -63,18 +63,18 @@ arm
 OpenCR Update Start..
 opencr_ld_shell ver 1.0.0
 opencr_ld_main
-[  ] file name   	: burger.opencr
-[  ] file size   	: 136 KB
-[  ] fw_name     	: burger
-[  ] fw_ver      	: V230127R1
-[OK] Open port   	: /dev/ttyACM0
+[  ] file name      : burger.opencr
+[  ] file size      : 136 KB
+[  ] fw_name        : burger
+[  ] fw_ver         : V230127R1
+[OK] Open port      : /dev/ttyACM0
 [  ]
-[  ] Board Name  	: OpenCR R1.0
-[  ] Board Ver   	: 0x17020800
-[  ] Board Rev   	: 0x00000000
-[OK] flash_erase 	: 1.00s
-[OK] flash_write 	: 1.34s
-[OK] CRC Check   	: D92222 D92222 , 0.005000 sec
+[  ] Board Name     : OpenCR R1.0
+[  ] Board Ver      : 0x17020800
+[  ] Board Rev      : 0x00000000
+[OK] flash_erase    : 1.00s
+[OK] flash_write    : 1.34s
+[OK] CRC Check      : D92222 D92222 , 0.005000 sec
 [OK] Download
 [OK] jump_to_fw
 ```
